@@ -1,4 +1,5 @@
-### Hi there 👋# [Ian Mungai](mailto:iansam74@gmail.com)
+### Hi there 👋
+# [Ian Mungai](mailto:iansam74@gmail.com)
 
 [GitHub](https://github.com/iansamz) | [LinkedIn](https://www.linkedin.com/in/ian-sam-mungai-661212124/) | [Website](https://ian.otherside.co.ke)
 
