@@ -1,7 +1,7 @@
 ### Hi there 👋
 # [I'm Ian Mungai](mailto:iansam74@gmail.com)
 
-[GitHub](https://github.com/iansamz) | [LinkedIn](https://www.linkedin.com/in/ian-sam-mungai-661212124/) | [Website](https://ian.otherside.co.ke)
+[GitHub](https://github.com/iansamz) | [LinkedIn](https://www.linkedin.com/in/ian-sam-mungai-661212124/) | [Website](https://otherside.co.ke)
 
 
 I'm a passionate full stack developer with extensive experience with both server side and
